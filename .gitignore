@@ -102,3 +102,4 @@ gulpfile.js
 package.json
 yarn.lock
 .eslintrc
+.publish
