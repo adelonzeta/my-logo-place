@@ -101,3 +101,4 @@ dist/
 gulpfile.js
 package.json
 yarn.lock
+.eslintrc
